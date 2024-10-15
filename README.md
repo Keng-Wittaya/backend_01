@@ -1,1 +1,5 @@
-นายวิทยา อ่อนแก้ว เลขที่10 67319010051
+Name :  Wittaya Onkaew
+Nickname :  Keng
+Age :  19
+No : 10
+StudentNo :  67319010051
